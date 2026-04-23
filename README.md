@@ -12,7 +12,7 @@ A smart healthcare system that recommends the best hospital in emergency situati
 
 
 ## 🌐 Live Demo
-smart-hospital-emergency-routing-4exxgdvd7.vercel.app
+https://smart-hospital-emergency-routing-4exxgdvd7.vercel.app
 
 
 ---
